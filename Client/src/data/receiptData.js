@@ -1,4 +1,3 @@
-// src/data/receiptData.js
 const receiptData = {
     poNumber: "PO-2021050001",
     issueDate: "29/05/2021",
