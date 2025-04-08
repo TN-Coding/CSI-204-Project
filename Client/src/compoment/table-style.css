@@ -1,0 +1,43 @@
+.table-container {
+    overflow-x: auto;
+    background: #333;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .pr-table {
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+  }
+  
+  .pr-table th,
+  .pr-table td {
+    border: 1px solid #555;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .pr-table th {
+    background-color: #666;
+  }
+  
+  
+  .delete-btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .view-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
