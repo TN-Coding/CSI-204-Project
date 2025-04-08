@@ -1,11 +1,10 @@
-// App.jsx
 import './App.css';
 import Layout from './layout/layout';
 import React, { useState } from 'react';
 
 
-const Dashboard = () => <div>This is the Dashboard view.</div>;
-const Reports = () => <div>This is the Reports view.</div>;
+// const Dashboard = () => <div>This is the Dashboard view.</div>;
+// const Reports = () => <div>This is the Reports view.</div>;
 
 function App() {
   const [activeTab, setActiveTab] = useState("dashboard");

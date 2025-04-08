@@ -7,8 +7,8 @@ const Receipt = () => {
 
   return (
     <div className="purchase-order">
-      <h1>ใบสั่งซื้อ</h1>
       <h2>Purchase Order <span>( ต้นฉบับ / original )</span></h2>
+      <h1>ใบสั่งซื้อ</h1>
 
       <div className="section">
         <div className="left">
